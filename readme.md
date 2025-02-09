@@ -15,3 +15,6 @@ Our prototype is built using the following technologies:
 
 # Flowchart
 ![Flowchart](flowchart.png)
+
+# Try it out!
+https://goalify-fe.vercel.app/
