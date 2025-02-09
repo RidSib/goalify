@@ -3,11 +3,14 @@ Goalify is a tool that transforms self-development books into personalized, gami
 
 An AI-powered chatbot provides guidance, motivation, and dynamic adjustments, ensuring steady progress. The system follows an interactive, level-based approach, where completing tasks unlocks new challenges. With Goalify, reading becomes actionable—turning insights into real-world success. 🚀📚
 
-Tech Stack
+#Tech Stack
+
 Our prototype is built using the following technologies:
 
 **Restack** – For AI orchestration.
+
 **Weaviate** – For storing and processing book content.
+
 **React** – For the frontend
 
 # Flowchart
