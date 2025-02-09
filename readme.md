@@ -17,6 +17,6 @@ Our prototype is built using the following technologies:
 ![Flowchart](flowchart.png)
 
 # Try it out!
-The prototye currently only supports Atomic Habits!
+IMPORTANT: The prototye currently only supports Atomic Habits!
 
 https://goalify-fe.vercel.app/
