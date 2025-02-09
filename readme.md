@@ -6,8 +6,8 @@ An AI-powered chatbot provides guidance, motivation, and dynamic adjustments, en
 Tech Stack
 Our prototype is built using the following technologies:
 
-**Restack** – For AI orchestration
-**Weaviate** – For storing and processing book content
+**Restack** – For AI orchestration.
+**Weaviate** – For storing and processing book content.
 **React** – For the frontend
 
 # Flowchart
