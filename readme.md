@@ -16,6 +16,10 @@ Our prototype is built using the following technologies:
 # Flowchart
 ![Flowchart](flowchart.png)
 
+# Frontend Repo
+
+https://github.com/kushal-10/goalify-dev
+
 # Try it out!
 IMPORTANT: The prototye currently only supports Atomic Habits!
 
